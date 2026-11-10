@@ -3,8 +3,8 @@
 Project memory for Claude sessions. Keep it short and current.
 
 ## Owner hardware
-- Desktop: GTX 1070 Ti (8 GB), Intel i5 from 2012 (stated as "i5 3750", probably i5-3570: 4 cores, no AVX2). RAM not yet known.
-- Laptop: Lenovo V17 G2 ITL (82NX), 11th-gen Intel, integrated or MX-class GPU.
+- Desktop: GTX 1070 Ti (8 GB), Intel i5 from 2012 (stated as "i5 3750", probably i5-3570: 4 cores, no AVX2). 24 GB DDR3-1600 CL9.
+- Laptop: Lenovo V17 G2 ITL (82NX), 11th-gen Intel, integrated or MX-class GPU, 16 GB DDR4-2666 CL18.
 
 ## Decisions
 - Engine: Unity 6 LTS, chosen by hardware fit. Unreal 5 is too heavy for the 2012 CPU.
